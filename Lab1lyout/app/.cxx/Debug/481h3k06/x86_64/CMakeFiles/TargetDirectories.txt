@@ -1,0 +1,3 @@
+C:/Users/ASUS/Downloads/AndroidLab1-main/AndroidLab1-main/Androidlyout-main/Lab1lyout/app/.cxx/Debug/481h3k06/x86_64/CMakeFiles/lab1lyout.dir
+C:/Users/ASUS/Downloads/AndroidLab1-main/AndroidLab1-main/Androidlyout-main/Lab1lyout/app/.cxx/Debug/481h3k06/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Downloads/AndroidLab1-main/AndroidLab1-main/Androidlyout-main/Lab1lyout/app/.cxx/Debug/481h3k06/x86_64/CMakeFiles/rebuild_cache.dir

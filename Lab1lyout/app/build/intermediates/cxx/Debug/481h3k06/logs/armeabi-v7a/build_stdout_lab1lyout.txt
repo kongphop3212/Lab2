@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\ASUS\Downloads\AndroidLab1-main\AndroidLab1-main\Androidlyout-main\Lab1lyout\app\.cxx\Debug\481h3k06\armeabi-v7a'
+ninja: no work to do.

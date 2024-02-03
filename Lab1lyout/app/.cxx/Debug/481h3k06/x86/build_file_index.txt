@@ -1,0 +1,1 @@
+C:\Users\ASUS\Downloads\AndroidLab1-main\AndroidLab1-main\Androidlyout-main\Lab1lyout\app\src\main\cpp\CMakeLists.txt
